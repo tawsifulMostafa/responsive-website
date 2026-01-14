@@ -86,6 +86,7 @@
 }
 .description-header{
     font-size: 45px;
+    margin-bottom: 24px;
      }
 
 span{
@@ -98,4 +99,27 @@ br{
 
 #features{
     color: rgba(255, 144, 14, 1);
+}
+.description-part{
+   color: rgba(114, 114, 114, 1);
+   margin-bottom:32px;
+
+}
+#head-two{
+    max-width: 368px;
+}
+.manager{
+    margin-left:50px;
+}
+.down-part p{
+    max-width:586px ;
+    height: 78px;
+}
+.down-part{
+    display: flex;
+}
+.box-style{
+    max-width: 586px;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+    margin-left:50px;
 }
